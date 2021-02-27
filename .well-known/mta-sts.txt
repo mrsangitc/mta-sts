@@ -1,4 +1,5 @@
-      version: STSv1
-      mode: enforce
-      mx: mail.asttravel.com.vn
-      max_age: 604800
+version: STSv1
+mode: enforce
+mx: mail.asttravel.com.vn
+mx: mail1.asttravel.com.vn
+max_age: 86400
